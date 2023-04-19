@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sharib Ahmad](mailto:sharib.ahmad@owasp.org)
+* [Debmalya Dey](mailto:debmalya.dey@owasp.org)
+* [Nishan Mondal](mailto:nishan.mondal@owasp.org)
